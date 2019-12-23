@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/mercenary/static/js/main.74bceea4.chunk.js",
-    "main.js.map": "/mercenary/static/js/main.74bceea4.chunk.js.map",
+    "main.js": "/mercenary/static/js/main.2e5482f2.chunk.js",
+    "main.js.map": "/mercenary/static/js/main.2e5482f2.chunk.js.map",
     "runtime-main.js": "/mercenary/static/js/runtime-main.0b658e64.js",
     "runtime-main.js.map": "/mercenary/static/js/runtime-main.0b658e64.js.map",
     "static/js/2.c8d558d3.chunk.js": "/mercenary/static/js/2.c8d558d3.chunk.js",
     "static/js/2.c8d558d3.chunk.js.map": "/mercenary/static/js/2.c8d558d3.chunk.js.map",
     "index.html": "/mercenary/index.html",
-    "precache-manifest.6f12e2cbb940b6d6c6d3f46bedb92d89.js": "/mercenary/precache-manifest.6f12e2cbb940b6d6c6d3f46bedb92d89.js",
+    "precache-manifest.62e57f79f122e3ca5de9920bed18f835.js": "/mercenary/precache-manifest.62e57f79f122e3ca5de9920bed18f835.js",
     "service-worker.js": "/mercenary/service-worker.js",
     "static/js/2.c8d558d3.chunk.js.LICENSE": "/mercenary/static/js/2.c8d558d3.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.0b658e64.js",
     "static/js/2.c8d558d3.chunk.js",
-    "static/js/main.74bceea4.chunk.js"
+    "static/js/main.2e5482f2.chunk.js"
   ]
 }
