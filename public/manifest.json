@@ -2,7 +2,7 @@
   "short_name": "Merc",
   "name": "Mercenary",
   "icons": [],
-  "start_url": "./index.html",
+  "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
